@@ -57,5 +57,3 @@ For privacy-related inquiries or suggestions, reach us at:
 3. Revise the policy promptly if future updates introduce data-related features (e.g., cloud storage).  
 
 ---  
-
-此版本已优化法律术语（如COPPA全称+缩写）、保留关键强调格式（如加粗与斜体），并确保符合全球App Store审核标准。
